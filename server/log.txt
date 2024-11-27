@@ -1,0 +1,7 @@
+<EVENT : Server Is Online  ,  TIME : 0.0>
+<EVENT : New Client Connected  ,  CLIENT_ID : 1  ,  TIME : 34.338>
+<EVENT : New Client Connected  ,  CLIENT_ID : 2  ,  TIME : 48.091>
+<EVENT : New Game Starting  ,  GAME_ID : 1  ,  PLAYER1_ID : 2  ,  PLAYER2_ID : 1  ,  TIME : 48.091>
+<EVENT : Game Ended  ,  GAME_ID : 1  ,  Reason : Player 2 Became Inactive  ,  Result : NA  ,  TIME : 89.559>
+<EVENT : Client Disconnected  ,  CLIENT_ID : 1  ,  TIME : 119.56>
+<EVENT : Client Disconnected  ,  CLIENT_ID : 2  ,  TIME : 119.56>
